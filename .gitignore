@@ -179,3 +179,4 @@ fabric.properties
 # my ignores
 *.sqlite3
 */migrations/*
+dds_datasets/
